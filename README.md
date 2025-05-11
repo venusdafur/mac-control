@@ -47,8 +47,8 @@ This Telegram bot offers the following functionalities:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/mac-remote-telegram-bot.git](https://github.com/yourusername/mac-remote-telegram-bot.git)
-    cd mac-remote-telegram-bot
+    git clone [https://github.com/venusdafur/mac-control.git](https://github.com/venusdafur/mac-control.git)
+    cd mac-control
     ```
 
 2.  **Install Dependencies:**
