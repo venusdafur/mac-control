@@ -90,3 +90,5 @@ This Telegram bot offers the following functionalities:
 ## 🚀 Usage
 
 Once the bot is running and you've granted permissions, you can send commands directly to your Telegram bot from your authorized chat. Refer to the `/help` command for a list of available actions.
+
+**If you have any issues or it appears to not work > check the issues tab in github, if your answer isnt there then please file an issue report**
