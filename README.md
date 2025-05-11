@@ -74,8 +74,6 @@ This Telegram bot offers the following functionalities:
     * **Camera:** For `/photo` and `/video`.
     * **Screen Recording:** For `/screenrecord`.
     * **Accessibility:** For `/startkeylogger` (allows `pynput` to monitor keyboard input).
-    * **Full Disk Access:** May be required for certain operations, though often less strict permissions suffice.
-    * **Automation:** If you see prompts related to `osascript` or other apps, grant permission.
 
 5.  **Run the Bot:**
     ```bash
