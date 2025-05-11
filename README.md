@@ -9,7 +9,7 @@ A Python-based Telegram bot designed for remote monitoring and control of a macO
 This Telegram bot offers the following functionalities:
 
 * **System Interaction:**
-    * `display dialog "<text>"`: Show a custom popup message on the macOS screen.
+    * `/popup "<text>"`: Show a custom popup message on the macOS screen.
     * `/lock`: Remotely lock the macOS screen.
     * `/lockdown [seconds]`: Initiate a recurring screen lock, useful for security or as a prank. Can be set for a specific duration or indefinitely.
     * `/cancellockdown`: Stop the ongoing screen lockdown.
