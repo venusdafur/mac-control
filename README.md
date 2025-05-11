@@ -1,4 +1,4 @@
-# 💻 MacRemoteTelegramBot
+# 💻 Mac-Control
 
 A Python-based Telegram bot designed for remote monitoring and control of a macOS system. This bot allows you to interact with your Mac, perform various actions, and receive updates directly through Telegram commands.
 
