@@ -47,7 +47,7 @@ This Telegram bot offers the following functionalities:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/venusdafur/mac-control.git](https://github.com/venusdafur/mac-control.git)
+    git clone [https://github.com/realcatdev/mac-control.git](https://github.com/realcatdev/mac-control.git)
     cd mac-control
     ```
 
